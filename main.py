@@ -3,7 +3,7 @@ import requests
 from telebot.types import Message as tele_message
 
 access_token = 'ipinfo.io access token'
-API_KEY = 'telegram bot api key'
+API_KEY = '6100552789:AAF4p0_dsFIv4Ca0DMjNfNNC9Cew-CNkAhs'
 bot = telebot.TeleBot(API_KEY)
 help_message = '''
 IP User info bot 
